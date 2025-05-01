@@ -16,20 +16,17 @@ GTViz is a lightweight visualization tool designed for understanding Group theor
     ```bash
     gcc gtViztool.c -o GTViz
     ```
-
 ## Usage
 
 Run the tool with the following command:
 ```bash
 ./GTViz
 ```
-Replace `<input_file>` with the path to your data file.
-
 ## Dependencies
 
 - GCC Compiler
 - Standard C Libraries
-- Math Library (`-lm`)
+- Math Library
 
 ## Contributing
 
